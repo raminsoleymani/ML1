@@ -1,1 +1,1 @@
-# ML1
+Machine Learning Algorithm with SVM and Linear Regression
